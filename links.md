@@ -19,3 +19,5 @@
 
 - **[Gdz elektrik Datathon 2022 Canceled](https://www.kaggle.com/competitions/2022gdz22-datathon-case-2/overview)**
 
+- **[Meteomatics Weather API](https://doc.eos.com/docs/weather/meteomatics-weather/#-precipitation-parameters)**
+
