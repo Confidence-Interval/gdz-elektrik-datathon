@@ -2,14 +2,8 @@
 
 This repo contains the EDA-Preprocessing-Model notebooks that we, as the Confidence Interval team, developed during the GDZ Elektrik Datathon competition.
 
-## TODOs ✅
-
-
-| Tasks | Score |
-|----------|------|
-|Autogluon Base |  |
-|Prophet Base |  |
-|Robust scaler |  |
++ **[EDA Notebook]()**
++ **[Model Notebook](https://github.com/Confidence-Interval/gdz-elektrik-datathon/blob/main/Notebooks/gdz-model.ipynb)**
 
 
 #### ✨ Owners:
